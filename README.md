@@ -19,8 +19,10 @@ allowing users to visualize how these search methods explore and solve mazes ste
 <br>
 
 ## ✅ Features 
-- 🧱 Realtime obstacles placement
-- 🔎 Visualization step-by-step
+- Realtime maze generation and solving
+- Realtime obstacles placement
+- Undo / Redo
+- Target Drag & Drop
 
 <br>
 
