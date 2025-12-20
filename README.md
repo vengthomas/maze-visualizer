@@ -23,6 +23,8 @@ allowing users to visualize how these search methods explore and solve mazes ste
 - Realtime obstacles placement
 - Undo / Redo
 - Target Drag & Drop
+- Pause / Resume algorithm execution
+- Responsive UI
 
 <br>
 
