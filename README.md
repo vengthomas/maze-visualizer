@@ -1,7 +1,7 @@
 # 🚩Maze visualizer
 
 ![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=yellow)
-![Last Commit](https://img.shields.io/github/last-commit/spaghetoz/maze-visualizer)
+![Last Commit](https://img.shields.io/github/last-commit/vengthomas/maze-visualizer)
 
 <br>
 
@@ -10,7 +10,7 @@ An interactive web-based maze visualizer built with **HTML**, **CSS**, and **Jav
 This app demonstrates pathfinding and maze generation algorithms such as **BFS** and **DFS** in action, 
 allowing users to visualize how these search methods explore and solve mazes step by step.
 
-🧪 Try it out here : **https://spaghetoz.github.io/maze-visualizer/**
+🧪 Try it out here : **https://vengthomas.github.io/maze-visualizer/**
 
 <br>
 
